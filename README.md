@@ -17,7 +17,4 @@ Open a Pull Request with a clear description of your changes.
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📬 Contact
-If you have any questions or suggestions, feel free to reach out through GitHub Issues or email me at your-email@example.com.
 
-Happy gaming and coding! 🚀
